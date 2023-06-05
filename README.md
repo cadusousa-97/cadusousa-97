@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Barboza</h1>
-<h3 align="center">A learner of frontend developer from Pernambuco, Brazil</h3>
+<h3 align="center">A learner of frontend development from Pernambuco, Brazil</h3>
 
 - 🌱 I’m currently learning **JavaScript, React and NodeJS**
 
