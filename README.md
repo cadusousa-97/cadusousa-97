@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Barboza</h1>
-<h3 align="center">A learner of backend development from Pernambuco, Brazil</h3>
+<h3 align="center">A learner of fullstack development from Pernambuco, Brazil</h3>
 
-- 🌱 I’m currently learning **Java and Spring**
+- 🌱 I’m currently learning **Java, Spring and Angular**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/cadusousa-97?tab=repositories](https://github.com/cadusousa-97?tab=repositories)
 
