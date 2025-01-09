@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Barboza</h1>
 <h3 align="center">A fullstack developer from Pernambuco, Brazil</h3>
 
-- 💼 I’m currently working at <a href="https://www.telein.com.br" target="blank">**Telein**</a> as a Junior developer.
+- 💼 I’m currently working at <a href="https://www.telein.com.br" target="_blank" rel="noreferrer">**Telein**</a> as a Junior developer.
 
 - 👨‍💻 All of my projects are available at: [https://github.com/cadusousa-97?tab=repositories](https://github.com/cadusousa-97?tab=repositories)
 
