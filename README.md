@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Barboza</h1> <h3 align="center">Mid-level full stack developer from Pernambuco, Brazil</h3>
-💼 Mid-level Full Stack Developer at <a href="https://www.telein.com.br" target="_blank" rel="noreferrer">Telein</a>, where I joined in 2024 as IT Support already working on development, and grew to mid-level by shipping to production.
+💼 Mid-level Full Stack Developer at <a href="https://www.telein.com.br" target="_blank" rel="noreferrer">Telein</a>, where I joined in 2024 as an IT Assistant already working on development, and grew to mid-level by shipping to production.
 🛠️ I work mostly with TypeScript, React and Node.js: a real-time omnichannel chat (WhatsApp, Instagram, IVR), payment and ERP integrations, and the CI/CD and Docker setup behind them.
 🔍 I like to understand the problem before writing code: talk to the people involved, compare alternatives and check whether the change actually worked.
 🌱 Currently: migrating a production app from JavaScript to TypeScript, and building a payment-events API (webhooks, idempotency) to sharpen my backend fundamentals.
